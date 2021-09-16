@@ -1,6 +1,6 @@
 import random
 
-capital_letter    = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"     #UpperCase lettrs
+capital_letter    = "ABCDEFGHIJKLMNOP"     #UpperCase lettrs
 small_letter      = capital_letter.lower()           #Or add small letters
 digits            = "0123456789"                     #Numerical char
 symbols           = "()[]{,.:/}\|/?#@!%^&*"          #Symbols
